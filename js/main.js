@@ -1,7 +1,7 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'ew96wSi0mCE', name: 'CONSTITUIÇÃO - CONCEITO E CLASSIFICAÇÕES - Parte 1' },
-    { id: 'AXFKaHqEXUc', name: 'CONSTITUIÇÃO - CONCEITO E CLASSIFICAÇÕES - Parte 2' },
+    { id: 'MGzQOaYNTqw', name: 'CONSTITUIÇÃO - CONCEITO E CLASSIFICAÇÕES - Parte 1' },
+    { id: 'EuHDgkVliII', name: 'CONSTITUIÇÃO - CONCEITO E CLASSIFICAÇÕES - Parte 2' },
     { id: 't93FyKwCtjo', name: 'Princípios fundamentais: Princípios IMPLÍCITOS e EXPLÍCITOS' },
     { id: 'q_ZMMxTnrOE', name: 'Direitos e Garantias Fundamentais' },
     { id: 'YcF8MblD7xw', name: 'Garantias Fundamentais - Parte 2' },
